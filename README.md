@@ -1,32 +1,33 @@
 turtle-flower-art
 A generative digital art application built with Python using turtle graphics.
+
 Python Turtle Generative Flower Art
-A creative graphics application built with Python to generate digital flower art using the turtle module, random distributions, and trigonometric mathematical techniques.
+A creative graphics application built with Python to generate digital flower art on a starry background using the turtle module, procedural generation, and trigonometric positioning techniques.
 
 🇬🇧 English Description
 About The Project
-This project is a Python application designed to explore graphical programming, procedural generation, random seed management, and mathematical calculations using the built-in `turtle` graphics module.
+This project is a Python application designed to practice graphical programming, custom vector geometry, random seed control, and mathematical calculations using the built-in `turtle` module.
 
 Key Features
-- Generative Art: Procedurally draws a unique blooming flower with layered petals and natural organic variations.
-- Random Seed Control: Utilizes `random.seed()` to ensure reproducible and consistent pattern generation across runs.
-- Trigonometric Positioning: Employs `math` module functions (`sin` and `cos`) to calculate precise circular coordinates for the flower's pollen center.
-- Custom Geometric Shapes: Uses modular functions for stems, curving leaves, and custom-colored filled petals.
+- Generative Flower Art: Procedurally renders a multi-layered flower with customizable petals, stem curves, and organic leaf geometry.
+- Starry Night Canvas: Generates a starry sky background with controlled random dot placement.
+- Trigonometric Positioning: Employs `math.sin()` and `math.cos()` functions to compute precise circular coordinates for the flower's center.
+- Reproducible Generation: Uses `random.seed()` to ensure consistent visual output across different runtime executions.
 
 Built With
 - Language: Python 3.x
-- Libraries: turtle, random, math
+- Built-in Libraries: `turtle`, `random`, `math`
 
 🇹🇷 Türkçe Açıklama
 Proje Hakkında
-Bu proje, Python programlama dilinde grafik programlama, prosedürel üretim, rastgelelik yönetimi ve matematiksel hesaplamaları pekiştirmek amacıyla `turtle` modülü kullanılarak geliştirilmiş dijital bir çiçek çizimi uygulamasıdır.
+Bu proje, Python programlama dilinde grafik programlama, vektörel geometrik şekil çizimi, rastgelelik yönetimi ve trigonometrik hesaplamaları pekiştirmek amacıyla `turtle` modülü kullanılarak geliştirilmiş bir dijital sanat uygulamasıdır.
 
 Öne Çıkan Özellikler
-- Generatif Sanat: Katmanlı taç yapraklar ve organik rastgele varyasyonlarla her seferinde estetik bir çiçek oluşturur.
-- Rastgele Tohum (Seed) Kontrolü: `random.seed()` kullanarak desenlerin tutarlı ve tekrarlanabilir olmasını sağlar.
-- Trigonometrik Konumlandırma: Çiçeğin merkezindeki polenleri dairesel bir düzende kusursuzca dizmek için `math` modülünden (`sin` ve `cos`) yararlanır.
-- Özel Geometrik Şekiller: Sap, kıvrımlı yapraklar ve dolgulu taç yapraklar için özel olarak tasarlanmış fonksiyonlar kullanır.
+- Generatif Çiçek Çizimi: Özel renk paleti, eğrisel sap ve yaprak parametreleriyle çok katmanlı estetik bir çiçek oluşturur.
+- Yıldızlı Arka Plan: Ekran sınırları içerisinde rastgele dağıtılmış noktalardan oluşan bir gece gökyüzü kanvası çizer.
+- Trigonometrik Konumlandırma: Çiçeğin merkezindeki polenleri dairesel bir düzende kusursuzca dizmek için `math.sin()` ve `math.cos()` fonksiyonlarından yararlanır.
+- Tekrarlanabilir Tasarım: `random.seed()` kullanarak rastgele üretilen desenlerin her çalıştırmada tutarlı olmasını sağlar.
 
 Kullanılan Teknolojiler
 - Dil: Python 3.x
-- Kütüphaneler: turtle, random, math
+- Dahili Kütüphaneler: `turtle`, `random`, `math`
