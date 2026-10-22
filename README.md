@@ -1,5 +1,8 @@
-# Turtle-Flower-Art
-A digital generative art project created using Python's turtle graphics module, featuring a starry night background and a blooming flower.
+turtle-flower-art
+A generative digital art application built with Python using turtle graphics.
+Python Turtle Generative Flower Art
+A creative graphics application built with Python to generate digital flower art using the turtle module, random distributions, and trigonometric mathematical techniques.
+
 🇬🇧 English Description
 About The Project
 This project is a Python application designed to explore graphical programming, procedural generation, random seed management, and mathematical calculations using the built-in `turtle` graphics module.
